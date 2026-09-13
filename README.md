@@ -12,7 +12,7 @@ I am **Dani Lipari**, an engineering leader and tech-focused professional origin
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilipari&theme=github"/> -->
 </div>
 
-Over the past few years, my journey has evolved from hands-on full-stack development to technical leadership, managing cross-functional engineering teams and driving technological strategy as **Head of Engineering** at DonTouch SA.
+Over the past few years, my journey has evolved from hands-on full-stack development to technical leadership, managing cross-functional engineering teams and driving technological strategy as **Head of Engineering**.
 
 - 🚀 **Core Activities:** Architecting scalable Cloud-Native systems, optimizing CI/CD deployment pipelines, and bridging the gap between business requirements and robust engineering solutions.
 - 🛠️ **Tech Stack:** Angular, Vue, Node.js, TypeScript, Python, and NestJS.
