@@ -1,10 +1,10 @@
-## Chi sono 👨🏻‍💻
+## About Me 👨🏻‍💻
 
 <!-- <div style="text-align:center; margin-bottom: 20px;">
   <img src="https://avatars.githubusercontent.com/u/64545085?v=4" alt="me" style="display:block; margin:auto; margin-bottom: 20px; width:80px;" />
 </div> -->
 
-Sono **Dani Lipari**, **Head of Engineering** originario di 🇮🇹 Roma e basato in 🇨🇭 Svizzera, con oltre 9 anni di esperienza nello sviluppo e nella leadership tecnica.
+I am **Dani Lipari**, an engineering leader and tech-focused professional originally from 🇮🇹 Rome and currently based in 🇨🇭 Switzerland, with over 9 years of experience in software development and technical leadership.
 
 <div align="center">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilipari&theme=github" alt="GitHub Streak"> -->
@@ -12,9 +12,11 @@ Sono **Dani Lipari**, **Head of Engineering** originario di 🇮🇹 Roma e basa
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilipari&theme=github"/> -->
 </div>
 
-- 🚀 **Cosa faccio:** Guido team, definisco roadmap e supervisiono soluzioni Cloud-Native, Web3 e Mobile.
-- 🛠️ **Il mio approccio:** Traduco i requisiti di business in software scalabile ad alte prestazioni.
-- 🎯 **Obiettivo:** Creare valore tramite l'eccellenza ingegneristica e metodologie Agile.
+Over the past few years, my journey has evolved from hands-on full-stack development to technical leadership, managing cross-functional engineering teams and driving technological strategy as **Head of Engineering** at DonTouch SA.
+
+- 🚀 **Core Activities:** Architecting scalable Cloud-Native systems, optimizing CI/CD deployment pipelines, and bridging the gap between business requirements and robust engineering solutions.
+- 🛠️ **Tech Stack:** Angular, Vue, Node.js, TypeScript, Python, and NestJS.
+- 🧠 **Innovation & Future Focus:** Deeply interested in modern architectures, currently expanding my focus into Artificial Intelligence (AI) solutions and Web3/Blockchain ecosystems.
 
 <p align="center">
   <a href="https://github.com/danilipari?tab=repositories&sort=stargazers">
